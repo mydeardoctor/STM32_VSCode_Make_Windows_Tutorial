@@ -1,0 +1,19 @@
+{
+    "makefile.configurations":
+    [
+        {
+            "name": "CustomConfiguration",
+            "problemMatchers": ["$gcc"],
+        },
+    ],
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\MyDearDoctorD\\Programming\\STM32Workspace\\STM32_VSCode_Make_Windows_Tutorial\\build",
+            "binaryPath": "d:\\MyDearDoctorD\\Programming\\STM32Workspace\\STM32_VSCode_Make_Windows_Tutorial\\build\\STM32_VSCode_Make_Windows_Tutorial.elf",
+            "binaryArgs": []
+        }
+    ],
+    "files.associations": {
+        "main.h": "c"
+    }
+}
